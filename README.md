@@ -18,7 +18,7 @@ This tool allows users to extract frames from a video file at a specified interv
 ## Usage:
 
 1. Run the script using the command `python VidFrameFetcher.py`.
-2. Follow the on-screen prompts to specify the video file path, screenshot save location, screenshot interval, and GPU acceleration option.
+2. Follow the on-screen prompts to specify the video file path, screenshot save location, and screenshot interval.
 
 ## Version:
 
